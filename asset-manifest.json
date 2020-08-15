@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactSeason/static/css/main.a248eae5.chunk.css",
+    "main.js": "/ReactSeason/static/js/main.2dc6d885.chunk.js",
+    "main.js.map": "/ReactSeason/static/js/main.2dc6d885.chunk.js.map",
+    "runtime-main.js": "/ReactSeason/static/js/runtime-main.9d539377.js",
+    "runtime-main.js.map": "/ReactSeason/static/js/runtime-main.9d539377.js.map",
+    "static/js/2.8b77c9df.chunk.js": "/ReactSeason/static/js/2.8b77c9df.chunk.js",
+    "static/js/2.8b77c9df.chunk.js.map": "/ReactSeason/static/js/2.8b77c9df.chunk.js.map",
+    "index.html": "/ReactSeason/index.html",
+    "precache-manifest.505a8525545c55a2abac1cc72f75eea9.js": "/ReactSeason/precache-manifest.505a8525545c55a2abac1cc72f75eea9.js",
+    "service-worker.js": "/ReactSeason/service-worker.js",
+    "static/css/main.a248eae5.chunk.css.map": "/ReactSeason/static/css/main.a248eae5.chunk.css.map",
+    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/ReactSeason/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d539377.js",
+    "static/js/2.8b77c9df.chunk.js",
+    "static/css/main.a248eae5.chunk.css",
+    "static/js/main.2dc6d885.chunk.js"
+  ]
+}
